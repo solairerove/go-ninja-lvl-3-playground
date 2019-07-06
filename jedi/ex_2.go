@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// Ex2 pring from 1 to 10k
+// Ex2 printing from 1 to 10k
 func Ex2() {
 
 	for i := 65; i <= 90; i++ {
