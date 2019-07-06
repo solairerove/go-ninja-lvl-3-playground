@@ -26,4 +26,8 @@ func main() {
 	fmt.Println()
 
 	ex.Ex5()
+
+	fmt.Println()
+
+	ex.Ex6()
 }
