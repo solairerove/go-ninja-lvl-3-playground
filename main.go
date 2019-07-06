@@ -10,4 +10,8 @@ func main() {
 	fmt.Println()
 
 	ex.Ex1()
+
+	fmt.Println()
+
+	ex.Ex2()
 }
