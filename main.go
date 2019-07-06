@@ -42,4 +42,8 @@ func main() {
 	fmt.Println()
 
 	ex.Ex9()
+
+	fmt.Println()
+
+	ex.Ex10()
 }
